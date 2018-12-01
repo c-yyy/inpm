@@ -1,5 +1,6 @@
 module.exports = {
 	title: 'inpm',
+	base: '/inpm/',
 	description: '万事皆虚，万事皆允',
 	head: [
 		['link', {
